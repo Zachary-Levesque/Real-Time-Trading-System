@@ -13,7 +13,7 @@ This project is not about predicting the market with machine learning. It is abo
 
 ## Goal
 
-The goal of this project is to build something that is both technically valuable and professionally meaningful.
+The goal of this project is to build something that is technically valuable.
 
 The project focuses on:
 
